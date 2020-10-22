@@ -1,0 +1,21 @@
+.idea
+node_modules/
+*.swp
+
+# error log
+npm-debug.log
+yarn-error.log
+
+# test log
+/coverage
+
+# system ignore
+.DS_Store
+
+# build product
+d/
+dist/
+out/
+jsdoc/
+package-lock.json
+.eslintrc.json
